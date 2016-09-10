@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:text="123456"
             android:id="@+id/textView"
-            android:background="#8e02"
+            android:background="#5555"
             android:textSize="40dp"
             android:textIsSelectable="false"
             android:textColor="#ffff00"
